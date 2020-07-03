@@ -28,7 +28,8 @@ p {
 }
 .header_container {
 	background: url("../images/bg.jpg") no-repeat;
-	/*height: 880px;*/
+	background-size:100%;
+	
 }
 /*Header*/
 .header {
